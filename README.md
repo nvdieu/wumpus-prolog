@@ -1,10 +1,10 @@
 # Game Wumpus World để học logic Mệnh đề và Logic Vị từ
 
-## install prolog
+## - install prolog
 [https://www.swi-prolog.org/download/stable](https://www.swi-prolog.org/download/stable)
-## Clone
+## - Clone
 git clone https://github.com/nvdieu/wumpus-prolog.git
-## wumpus game play
+## - wumpus game play
 cd wumpus-prolog
 
 swipl
@@ -13,4 +13,4 @@ swipl
 
 -? start.
 
-## help command in game to describe command of game
+## - using help command in game to describe command of game
