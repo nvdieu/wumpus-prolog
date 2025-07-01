@@ -6,7 +6,11 @@
 git clone https://github.com/nvdieu/wumpus-prolog.git
 ## wumpus game play
 cd wumpus-prolog
+
 swipl
+
 -? consult('wumpus.qlf').
+
 -? start.
+
 ## help command in game to describe command of game
