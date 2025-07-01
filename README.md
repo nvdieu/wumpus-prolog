@@ -1,4 +1,4 @@
-# Game Wumpus World để học logic Mệnh đề và Logic Vị từ
+# Wumpus World game for learn Propositional logic and Predicate logic
 
 ## - install prolog
 [https://www.swi-prolog.org/download/stable](https://www.swi-prolog.org/download/stable)
