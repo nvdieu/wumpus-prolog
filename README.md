@@ -13,4 +13,4 @@ swipl
 
 -? start.
 
-## - using help command in game to describe command of game
+## - using help command in game to describe the commands of game
