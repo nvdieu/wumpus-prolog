@@ -1,4 +1,4 @@
-# Wumpus World game for learn Propositional logic and Predicate logic
+# Wumpus World game to learn Propositional logic and Predicate logic
 
 ## - install prolog
 [https://www.swi-prolog.org/download/stable](https://www.swi-prolog.org/download/stable)
