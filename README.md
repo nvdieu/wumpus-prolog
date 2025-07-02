@@ -18,7 +18,9 @@ swipl
 <div align="center">
 <img src="wumpus.png" alt="Wumpus in AIMA book" width="30%" height="30%">
 </div>
+
 ## - Rule:
+
 1 wumpus, 1 gold, 1 or more pit.
 
 Start position at (0,0).
