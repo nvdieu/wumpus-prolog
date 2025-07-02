@@ -14,5 +14,6 @@ swipl
 -? start.
 
 ## - using help command in game to describe the commands of game
+## for wumpus example in AIMA book
 
 ![Wumpus](w01.png)
