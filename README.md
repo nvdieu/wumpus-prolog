@@ -15,4 +15,4 @@ swipl
 
 ## - using help command in game to describe the commands of game
 
-![Wumpus](wumpus01.png)
+![Wumpus](w01.png)
