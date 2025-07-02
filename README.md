@@ -18,3 +18,15 @@ swipl
 <div align="center">
 <img src="wumpus.png" alt="Wumpus in AIMA book" width="30%" height="30%">
 </div>
+## - Rule:
+1 wumpus, 1 gold, 1 or more pit.
+
+Start position at (0,0).
+
+Use climbdown to (1,1) position.
+
+Go around to find and grab gold.
+
+Turn back to (1,1) position.
+
+Use climbup to (0,0) position and finish: Win
