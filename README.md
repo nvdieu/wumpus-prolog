@@ -14,7 +14,7 @@ swipl
 -? start.
 
 ## - using help command in game to describe the commands of game
-## - wumpus example in AIMA book
+## - Wumpus example in AIMA book (Stuart J. Russell and Peter Norvig)
 <div align="center">
 <img src="wumpus.png" alt="Wumpus in AIMA book" width="30%" height="30%">
 </div>
