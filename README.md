@@ -15,6 +15,6 @@ swipl
 
 ## - using help command in game to describe the commands of game
 ## for wumpus example in AIMA book
-
+<div align="center">
 <img src="w01.png" alt="Wumpus in AIMA book" width="30%" height="30%">
-
+</div>
