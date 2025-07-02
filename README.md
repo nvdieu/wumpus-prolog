@@ -14,4 +14,5 @@ swipl
 -? start.
 
 ## - using help command in game to describe the commands of game
-## How to play using inference 
+
+![Wumpus](wumpus01.png)
